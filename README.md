@@ -1,1 +1,2 @@
-# Project-tTemplate---29-Zombie-Crush
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
